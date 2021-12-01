@@ -70,5 +70,6 @@ public class MaxHeap {
         heap.poll();
         System.out.println(heap.poll());
         System.out.println(heap.poll());
+        System.out.println(heap.poll());
     }
 }
