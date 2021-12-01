@@ -1,0 +1,8 @@
+
+Ssquid:S1854Z"<Remove this useless assignment to local variable "isolated".(óìˆâ
+wsquid:S00115
+"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(º¥¾ùÿÿÿÿ
+gsquid:CommentedOutCodeLine^"<This block of commented-out lines of code should be removed.(ù ƒ‘üÿÿÿÿ
+O
+squid:S106\"9Replace this use of System.out or System.err by a logger.(Š»ô‹
+Dsquid:S1481Z"-Remove this unused "isolated" local variable.(óìˆâ

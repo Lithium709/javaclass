@@ -1,0 +1,26 @@
+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¯±Œª8”‹Ý£.
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Ðôé8Äå¬Ú£.
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ó‘ôÎùÿÿÿÿ8Äå¬Ú£.
+t
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(‡±‚±8Äå¬Ú£.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(”ÝÖúÿÿÿÿ8‚Ü“°¤.
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ô—ß–ûÿÿÿÿ8Äå¬Ú£.
+t
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(±ÇÒã8Äå¬Ú£.
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ý¢êÍýÿÿÿÿ8Äå¬Ú£.
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¢ËÜÈúÿÿÿÿ8Äå¬Ú£.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(íîÌ‰ùÿÿÿÿ8Äå¬Ú£.
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Û³ËÙþÿÿÿÿ8Äå¬Ú£.
+bsquid:S1126"AReplace this if-then-else statement by a single return statement.(È¶¹êÿÿÿÿÿ8Äå¬Ú£.
+<squid:S1659" Declare "y1" on a separate line.(„·ª8Äå¬Ú£.
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ã™³µúÿÿÿÿ8ÿ…ÈÚ£.
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Ðôé8Äå¬Ú£.
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 59 to the 15 allowed.(˜Ðôé8Äå¬Ú£.
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ØŸÍé8ò±Ûº¤.
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ú¸Ãíÿÿÿÿÿ8íç¶Ú£.
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÚÅÕô8”‹Ý£.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹ôþ‚ÿÿÿÿÿ8ç¡ÃÑ¤.

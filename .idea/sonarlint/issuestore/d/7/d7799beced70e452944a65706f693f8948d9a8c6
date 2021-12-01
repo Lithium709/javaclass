@@ -1,0 +1,22 @@
+
+Gsquid:S1481"&Remove this unused "r" local variable.(ñÙáûÿÿÿÿ8ô¾ïŸ.
+Esquid:S1905")Remove this unnecessary cast to "double".(€³¾²8ºèïŸ.
+Jsquid:S1905")Remove this unnecessary cast to "double".(ñ¿¼¿ıÿÿÿÿ8¶äøïŸ.
+Ysquid:S1854"8Remove this useless assignment to local variable "ints".(ŒÒÇøÿÿÿÿ8¾•¿ïŸ.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(×•œ²8ó˜¿çŸ.
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(½ë„Ä8¾•¿ïŸ.
+Hsquid:S1481",Remove this unused "next_cf" local variable.(øƒ¶Œ8¾•¿ïŸ.
+Tsquid:S3518"8Make sure "q1" can't be zero before doing this division.(€³¾²8£ôÔïŸ.
+asquid:S2184"ECast one of the operands of this subtraction operation to a "double".(šÍ ·8¾•¿ïŸ.
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øƒ¶Œ8£ÉõéŸ.
+Vsquid:S1854"5Remove this useless assignment to local variable "r".(ñÙáûÿÿÿÿ8¾•¿ïŸ.
+Csquid:S1481"'Remove this unused "p2" local variable.(Ïß—â8ô¾ïŸ.
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(­«¨€8„½Ÿ.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Óíø•úÿÿÿÿ8³¾çŸ.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(…±ƒ÷8¾•¿ïŸ.
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î£¸øÿÿÿÿ8£ÉõéŸ.
+csquid:S2184"BCast one of the operands of this addition operation to a "double".(çóƒ’ùÿÿÿÿ8¾•¿ïŸ.
+Jsquid:S1481")Remove this unused "ints" local variable.(ŒÒÇøÿÿÿÿ8¾•¿ïŸ.

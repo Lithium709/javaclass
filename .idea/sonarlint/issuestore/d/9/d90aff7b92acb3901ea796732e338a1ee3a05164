@@ -1,0 +1,5 @@
+
+?squid:S1643,"Use a StringBuilder instead.(ŞìïÑùÿÿÿÿ8íÜÄÅ‚-
+[
+squid:S106."9Replace this use of System.out or System.err by a logger.(Îåè¡ùÿÿÿÿ8…½ºÅ‚-
+\squid:UselessImportCheck"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8´şÂ‚-

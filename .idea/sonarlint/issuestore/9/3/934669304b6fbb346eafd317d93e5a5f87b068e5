@@ -1,0 +1,19 @@
+
+Wsquid:S10752"ARefactor your code to get this URI from a customizable parameter.(†ÁÙ(
+usquid:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(Î²›øÿÿÿÿ
+gsquid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(›·º‡üÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Êß¨Õüÿÿÿÿ
+T
+squid:S1063"9Replace this use of System.out or System.err by a logger.(‚…ÕØşÿÿÿÿ
+T
+squid:S1064"9Replace this use of System.out or System.err by a logger.(ÊƒÄ‘ÿÿÿÿÿ
+>squid:S1481%"'Remove this unused "p1" local variable.(‡ô£Ÿ
+>squid:S1481&"'Remove this unused "p2" local variable.(ñ ²ë
+>squid:S1481'"'Remove this unused "p3" local variable.(İŒ´†
+Csquid:S1481("'Remove this unused "p4" local variable.(ó½Ôôøÿÿÿÿ
+Gsquid:S14816"+Remove this unused "future" local variable.(ÜÉñÆıÿÿÿÿ
+Rsquid:S1854("6Remove this useless assignment to local variable "p4".(ó½Ôôøÿÿÿÿ
+Msquid:S1854'"6Remove this useless assignment to local variable "p3".(İŒ´†
+Msquid:S1854&"6Remove this useless assignment to local variable "p2".(ñ ²ë
+Msquid:S1854%"6Remove this useless assignment to local variable "p1".(‡ô£Ÿ

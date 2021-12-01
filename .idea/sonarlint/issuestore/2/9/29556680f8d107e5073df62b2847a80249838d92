@@ -1,0 +1,7 @@
+
+isquid:S3776
+"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÒñÕ¶
+T
+squid:S106S"9Replace this use of System.out or System.err by a logger.(èò€›üÿÿÿÿ
+asquid:UselessImportCheck"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ
+`squid:UselessImportCheck"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ

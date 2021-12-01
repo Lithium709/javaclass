@@ -1,0 +1,8 @@
+
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”î‘›8µÆÁÈÚ,
+Xsquid:S1854'"5Remove this useless assignment to local variable "n".(ğìÇ£ûÿÿÿÿ8ëÚÈÚ,
+Isquid:S1481'"&Remove this unused "n" local variable.(ğìÇ£ûÿÿÿÿ8ëÚÈÚ,
+[
+squid:S106	"9Replace this use of System.out or System.err by a logger.(Í­Œûÿÿÿÿ8ù‚ôÃÙ,
+Bsquid:S1659'"Declare "n" on a separate line.(ğìÇ£ûÿÿÿÿ8Èã‘ÈÚ,
+Bsquid:S1659'"Declare "c" on a separate line.(ğìÇ£ûÿÿÿÿ8Èã‘ÈÚ,

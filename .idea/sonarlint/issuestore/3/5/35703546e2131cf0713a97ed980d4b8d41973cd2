@@ -1,0 +1,11 @@
+
+[
+squid:S106T"9Replace this use of System.out or System.err by a logger.(ÈšÆ¯şÿÿÿÿ8óİ¨Ø.
+[
+squid:S106Y"9Replace this use of System.out or System.err by a logger.(¬ÙÃıÿÿÿÿ8Î©Ø.
+[
+squid:S106Z"9Replace this use of System.out or System.err by a logger.(ùâĞŒşÿÿÿÿ8Î©Ø.
+ squid:ForLoopCounterChangedCheckA"XRefactor the code in order to not assign to this loop counter from within the loop body.(ò…áûÿÿÿÿ8•¢ü×.
+V
+squid:S106U"9Replace this use of System.out or System.err by a logger.(™š÷Û8ˆ’©Ø.
+ squid:ForLoopCounterChangedCheckI"XRefactor the code in order to not assign to this loop counter from within the loop body.(‡óá™ûÿÿÿÿ8ï£‚Ø.

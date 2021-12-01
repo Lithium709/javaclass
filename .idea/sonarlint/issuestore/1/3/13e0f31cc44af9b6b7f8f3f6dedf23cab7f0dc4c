@@ -1,0 +1,12 @@
+
+Tsquid:S1197"8Move the array designator from the variable to the type.(´ò€¿8’ùÊñÂ.
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Øæœ€øÿÿÿÿ8ù…÷áÂ.
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Çµí‘8ù…÷áÂ.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(·ùßóıÿÿÿÿ8Û¨‹äÂ.
+¢%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8ï“ÇãÂ.
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(êË¥ì8ù…÷áÂ.
+Ysquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ÌÛºÈÂ.
+Ysquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Ù¸ºÈÂ.
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(¦€V8ù…÷áÂ.

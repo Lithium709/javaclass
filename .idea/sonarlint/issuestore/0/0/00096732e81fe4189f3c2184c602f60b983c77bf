@@ -1,0 +1,4 @@
+
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÕðàÁ‚-
+¤%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(¾€áÓ8¿ÁÓÂ‚-
+esquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¾€áÓ8ô³àÁ‚-

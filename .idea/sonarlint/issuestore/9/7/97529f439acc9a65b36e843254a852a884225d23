@@ -1,0 +1,16 @@
+
+Bsquid:S1481	"&Remove this unused "h" local variable.(Ó‚¡ƒşÿÿÿÿ
+Qsquid:S1854	"5Remove this useless assignment to local variable "h".(Ó‚¡ƒşÿÿÿÿ
+N
+squid:S1067"9Replace this use of System.out or System.err by a logger.(ö´Òm
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãŒÂÔøÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãŒÂÔøÿÿÿÿ
+O
+squid:S1063"9Replace this use of System.out or System.err by a logger.(›éø×
+O
+squid:S1066"9Replace this use of System.out or System.err by a logger.(¡ÙØ
+T
+squid:S1064"9Replace this use of System.out or System.err by a logger.(şè¤Øøÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Œ„Ïğÿÿÿÿÿ

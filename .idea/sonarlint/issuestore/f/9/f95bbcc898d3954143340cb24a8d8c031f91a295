@@ -1,0 +1,7 @@
+
+nsquid:CommentedOutCodeLine]"<This block of commented-out lines of code should be removed.(Øæœ€øÿÿÿÿ8€ºƒŒÁ.
+]squid:UselessImportCheck2"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8™®—Á.
+¤%squid:RedundantThrowsDeclarationCheck\"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8€ºƒŒÁ.
+isquid:CommentedOutCodeLineR"<This block of commented-out lines of code should be removed.(Çµí‘8€ºƒŒÁ.
+[
+squid:S106m"9Replace this use of System.out or System.err by a logger.(¸šñÙüÿÿÿÿ8€ºƒŒÁ.

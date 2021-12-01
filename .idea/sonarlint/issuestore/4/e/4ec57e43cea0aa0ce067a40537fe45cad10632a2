@@ -1,0 +1,11 @@
+
+[
+squid:S106W"9Replace this use of System.out or System.err by a logger.(…¹÷´úÿÿÿÿ8ÏýøÓ¤.
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Ðôé8©¼Æ­¤.
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(˜Ðôé8±Î¨º¤.
+V
+squid:S106A"9Replace this use of System.out or System.err by a logger.(‡åÈž8ÏýøÓ¤.
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Ðôé8©¼Æ­¤.
+nsquid:CommentedOutCodeLine8"<This block of commented-out lines of code should be removed.(™ÛÔÕýÿÿÿÿ8ÏýøÓ¤.
+{
+squid:S135""YReduce the total number of break and continue statements in this loop to use at most one.(þ“µÞúÿÿÿÿ8ÀŽšÑ¤.

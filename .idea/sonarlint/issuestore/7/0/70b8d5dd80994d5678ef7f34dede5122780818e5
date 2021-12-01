@@ -1,0 +1,18 @@
+
+V
+squid:S106’"9Replace this use of System.out or System.err by a logger.(Ê”ÉI8ÍûÃú¤.
+isquid:S00117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Ğôé
+W
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ã¿§Ò8˜âÃú¤.
+nsquid:CommentedOutCodeLinex"<This block of commented-out lines of code should be removed.(‰â´èüÿÿÿÿ8œ©Ãú¤.
+isquid:S00117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Ğôé
+isquid:S00117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( îøÕ
+csquid:CommentedOutCodeLine˜"<This block of commented-out lines of code should be removed.(ùÆ³‘
+psquid:S3776D"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(˜Ğôé8åàºù¤.
+W
+squid:S106–"9Replace this use of System.out or System.err by a logger.(û‚İ‹8¸®Äú¤.
+nsquid:CommentedOutCodeLine|"<This block of commented-out lines of code should be removed.(‰â´èüÿÿÿÿ8İÂÃú¤.
+\
+squid:S106—"9Replace this use of System.out or System.err by a logger.(…¹÷´úÿÿÿÿ8¸®Äú¤.
+U
+squid:S106•"9Replace this use of System.out or System.err by a logger.(”İÖúÿÿÿÿ

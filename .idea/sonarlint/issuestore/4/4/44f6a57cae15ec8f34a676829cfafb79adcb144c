@@ -1,0 +1,24 @@
+
+isquid:S3776r"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(˜Ğôé
+Bsquid:S1659X"Declare "y" on a separate line.(İŸ°ÿÿÿÿÿ8á«¥ø¤.
+qsquid:S00117Ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£™ıÚ8¶Ï¯ø¤.
+vsquid:S00117Õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒóŒ“üÿÿÿÿ8¶Ï¯ø¤.
+W
+squid:S106à"9Replace this use of System.out or System.err by a logger.(Ã¿§Ò8ŸÊÔø¤.
+;squid:S1659A"Declare "y" on a separate line.(¡Ê²‘şÿÿÿÿ
+gsquid:S2184—"CCast one of the operands of this subtraction operation to a "long".(øëÛŒşÿÿÿÿ8‹Òø¤.
+bsquid:S2184–"CCast one of the operands of this subtraction operation to a "long".(Ì€è8´öÑø¤.
+bsquid:S2184˜"CCast one of the operands of this subtraction operation to a "long".(ï¶†Ğ8¦Òø¤.
+isquid:S00117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Ğôé
+isquid:S00117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Ğôé
+V
+squid:S106â"9Replace this use of System.out or System.err by a logger.(Ê”ÉI8ÄÏåø¤.
+isquid:S00117y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( îøÕ
+\
+squid:S106å"9Replace this use of System.out or System.err by a logger.(”İÖúÿÿÿÿ8¸òåø¤.
+W
+squid:S106æ"9Replace this use of System.out or System.err by a logger.(û‚İ‹8¿æø¤.
+\
+squid:S106ç"9Replace this use of System.out or System.err by a logger.(…¹÷´úÿÿÿÿ8Û©æø¤.
+csquid:CommentedOutCodeLineè"<This block of commented-out lines of code should be removed.(ùÆ³‘
+asquid:S2184•"CCast one of the operands of this subtraction operation to a "long".(÷“¤<8»ºÑø¤.

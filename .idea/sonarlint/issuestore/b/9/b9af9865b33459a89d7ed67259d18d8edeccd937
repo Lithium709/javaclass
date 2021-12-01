@@ -1,0 +1,5 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŠÆ³íúÿÿÿÿ8¬‡Ûóê,
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¢Âù ÿÿÿÿÿ
+usquid:S2234"WParameters to first have the same names but not the same order as the method arguments.(ùéË¤8ó‹Øóê,

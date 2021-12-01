@@ -1,0 +1,8 @@
+
+Fsquid:S1481"+Remove this unused "buffer" local variable.( ø™/8ˆá­ê.
+Usquid:S1854":Remove this useless assignment to local variable "buffer".( ø™/8ˆá­ê.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(§›´‘8”Í‰Şé.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(±¤ª¹8Çªùİé.
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒŞİé8ôƒŞé.

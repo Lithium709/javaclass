@@ -1,0 +1,4 @@
+
+Fsquid:S1185"(Remove this method to simply inherit it.(…„Áç8‘œ‰Ûê,
+¦%squid:RedundantThrowsDeclarationCheck"iRemove the declaration of thrown exception 'java.lang.NullPointerException' which is a runtime exception.(¿ÃÜ¾ÿÿÿÿÿ8ÚÿˆÛê,
+ %squid:RedundantThrowsDeclarationCheck"hRemove the declaration of thrown exception 'java.lang.ArithmeticException' which is a runtime exception.(…„Áç8‹£ŒÛê,

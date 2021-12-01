@@ -1,0 +1,9 @@
+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Çµí‘8„é¯ÙÀ.
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(”†…”8’ö»ÙÀ.
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¢ŽîÊùÿÿÿÿ8æä¼ÙÀ.
+‚squid:S1192"aDefine a constant instead of duplicating this literal "(\r\n|[\n\r\u2028\u2029\u0085])?" 3 times.(£©¾úÿÿÿÿ8Àú°ÙÀ.
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(êË¥ì8æä¼ÙÀ.
+¢%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8Ð€¾ÙÀ.
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(¦€V8›®½ÙÀ.

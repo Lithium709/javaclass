@@ -1,0 +1,8 @@
+
+Zsquid:UselessImportCheck"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8õÊÆÊ‚-
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8õÊÆÊ‚-
+[squid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8õÊÆÊ‚-
+csquid:UselessImportCheck"8Remove this unused import 'java.util.function.Function'.(»³Í8õÊÆÊ‚-
+gsquid:HiddenFieldCheck"9Rename "cards" which hides the field declared at line 21.(øâ³›ıÿÿÿÿ8õÊÆÊ‚-
+hsquid:UselessImportCheck"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8õÊÆÊ‚-
+`squid:UselessImportCheck"0Remove this unused import 'java.util.Map.Entry'.(±şê¾úÿÿÿÿ8õÊÆÊ‚-

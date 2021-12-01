@@ -1,0 +1,21 @@
+
+>squid:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
+>squid:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
+_squid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(»ãßºøÿÿÿÿ
+_squid:S2276""CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(»ãßºøÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(õšÝäÿÿÿÿÿ
+T
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ÐýÛøÿÿÿÿ
+Lsquid:S2446$"0"notify" may not wake up the appropriate thread.(«ß£òúÿÿÿÿ
+bsquid:S21422"FEither re-interrupt this method or rethrow the "InterruptedException".(²ý…¦ûÿÿÿÿ
+bsquid:S2142="FEither re-interrupt this method or rethrow the "InterruptedException".(²ý…¦ûÿÿÿÿ
+bsquid:S2142H"FEither re-interrupt this method or rethrow the "InterruptedException".(²ý…¦ûÿÿÿÿ
+Fsquid:S001082")Either remove or fill this block of code.(²ý…¦ûÿÿÿÿ
+Fsquid:S00108=")Either remove or fill this block of code.(²ý…¦ûÿÿÿÿ
+Fsquid:S00108H")Either remove or fill this block of code.(²ý…¦ûÿÿÿÿ
+?squid:S1604,"(Make this anonymous inner class a lambda(ÉãÃ®
+?squid:S16047"(Make this anonymous inner class a lambda(ÉãÃ®
+?squid:S1604B"(Make this anonymous inner class a lambda(ÉãÃ®
+Usquid:UselessImportCheck",Remove this unused import 'java.util.Deque'.(³Ã¯¥þÿÿÿÿ
+Zsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(¡³Œ’ûÿÿÿÿ

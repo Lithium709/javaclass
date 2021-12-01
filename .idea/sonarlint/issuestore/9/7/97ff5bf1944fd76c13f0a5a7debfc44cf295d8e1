@@ -1,0 +1,7 @@
+
+?squid:S3985"%Remove this unused private "D" class.(µÏşÓùÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ã§§©şÿÿÿÿ
+hsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(»Úñ
+;squid:S1170"!Make this final field static too.(Çû¦’üÿÿÿÿ
+\squid:S2094"BRemove this empty class, write its code or make it an "interface".(µÏşÓùÿÿÿÿ
+psquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(»Úñ

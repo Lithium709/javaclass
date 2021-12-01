@@ -1,0 +1,22 @@
+
+Ksquid:EmptyStatementUsageCheck"Remove this empty statement.(ôŸìúÿÿÿÿ
+@squid:S2786")Remove this redundant "static" qualifier.( Î—Ø
+?squid:S3066"#Lower the visibility of this field.(Ü÷·İøÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ó±¼úÿÿÿÿ
+O
+squid:S106/"9Replace this use of System.out or System.err by a logger.(Õ÷ÿÿ
+O
+squid:S1062"9Replace this use of System.out or System.err by a logger.(²úÉ‹
+‡"squid:ClassVariableVisibilityCheck"TMake strength a static final constant or non-public and provide accessors if needed.(Ü÷·İøÿÿÿÿ
+1squid:S1220""Move this file to a named package.
+<squid:S1481 "&Remove this unused "d" local variable.(Ÿñó>
+=squid:S14814"&Remove this unused "c" local variable.(–É—ƒ
+Csquid:S1612/",Replace this lambda with a method reference.(Õ÷ÿÿ
+Ksquid:S1854 "5Remove this useless assignment to local variable "d".(Ÿñó>
+Lsquid:S18544"5Remove this useless assignment to local variable "c".(–É—ƒ
+Fsquid:S1611/"/Remove the parentheses around the "x" parameter(Õ÷ÿÿ
+Vsquid:UselessImportCheck"3Remove this unused import 'java.io.BufferedWriter'.(¬õº/
+lsquid:UselessImportCheck"CRemove this unused import 'java.util.concurrent.ConcurrentHashMap'.(ÓŠÓøúÿÿÿÿ
+Tsquid:UselessImportCheck"+Remove this unused import 'java.io.Writer'.(Î”øÿÿÿÿ
+jsquid:UselessImportCheck"FRemove this unused import 'java.util.concurrent.CopyOnWriteArrayList'.(ı¦ü
+_squid:UselessImportCheck";Remove this unused import 'java.util.function.IntFunction'.(½†¶Ú

@@ -1,0 +1,20 @@
+
+¤squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(å‚¸éûÿÿÿÿ8Ññ©˜¾.
+Isquid:S1481 "+Remove this unused "price2" local variable.(‹üäç8Á ˜¾.
+Hsquid:S1481"*Remove this unused "size1" local variable.(ƒ¿Ãå8†Ì˜¾.
+Fsquid:S3985"(Remove this unused private "Tile" class.(âä±ÿ8á¤¶˜¾.
+Wsquid:S1854"9Remove this useless assignment to local variable "size1".(ƒ¿Ãå8†Ì˜¾.
+Xsquid:S1854 ":Remove this useless assignment to local variable "price2".(‹üäç8Á ˜¾.
+]squid:S1854)":Remove this useless assignment to local variable "output".(öÇ·­úÿÿÿÿ8ê¤£…İ.
+`squid:UselessImportCheck"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8ê¤£…İ.
+Msquid:S1481!"*Remove this unused "size2" local variable.(òÆşÿÿÿÿ8Á ˜¾.
+Fsquid:S1068")Remove this unused "price" private field.(ˆÑ€(8¿°¸˜¾.
+fsquid:S2259)"CA "NullPointerException" could be thrown; "input" is nullable here.(öÇ·­úÿÿÿÿ8¬á¤…İ.
+Esquid:S1068"(Remove this unused "size" private field.(‰öÆ)8¿°¸˜¾.
+Nsquid:S1481)"+Remove this unused "output" local variable.(öÇ·­úÿÿÿÿ8ë¤£…İ.
+dsquid:UselessImportCheck"4Remove this unused import 'java.time.ZonedDateTime'.(Å¯Ğ©ûÿÿÿÿ8‚“¬…İ.
+]squid:S1854":Remove this useless assignment to local variable "price1".(š®¾Óøÿÿÿÿ8†Ì˜¾.
+V
+squid:S106%"9Replace this use of System.out or System.err by a logger.(üûî¢8Òí´Ü.
+Nsquid:S1481"+Remove this unused "price1" local variable.(š®¾Óøÿÿÿÿ8†Ì˜¾.
+\squid:S1854!"9Remove this useless assignment to local variable "size2".(òÆşÿÿÿÿ8Á ˜¾.

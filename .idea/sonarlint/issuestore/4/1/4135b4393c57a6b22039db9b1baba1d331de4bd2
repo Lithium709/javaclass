@@ -1,0 +1,16 @@
+
+Xsquid:S1854"<Remove this useless assignment to local variable "nextRand".(Ú×½§øÿÿÿÿ
+Xsquid:UselessImportCheck	"4Remove this unused import 'java.util.stream.Stream'.(ó÷Ž”
+gsquid:CommentedOutCodeLineF"<This block of commented-out lines of code should be removed.(üÆË–ÿÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(­Ë­äúÿÿÿÿ
+Csquid:S1481)",Remove this unused "callEnd" local variable.(ÒÀ—°
+Qsquid:UselessImportCheck"-Remove this unused import 'java.time.ZoneId'.( Æ½“
+psquid:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").(¶µÿ”
+T
+squid:S106D"9Replace this use of System.out or System.err by a logger.(›²·îúÿÿÿÿ
+Zsquid:S1155+">Use isEmpty() to check whether the collection is empty or not.(½Öò™üÿÿÿÿ
+bsquid:CommentedOutCodeLine8"<This block of commented-out lines of code should be removed.(Ûó˜ì
+Rsquid:S1854)";Remove this useless assignment to local variable "callEnd".(ÒÀ—°
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇŒœ”øÿÿÿÿ
+O
+squid:S106="9Replace this use of System.out or System.err by a logger.(žª¯

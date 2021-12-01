@@ -1,0 +1,5 @@
+
+gsquid:HiddenFieldCheck"9Rename "cards" which hides the field declared at line 15.(øâ³›ıÿÿÿÿ8¢„õô-
+Usquid:S3655t"7Call "Optional#isPresent()" before accessing the value.(¼ôóï8„µĞ‡‚-
+Jsquid:S1068",Remove this unused "cardSuit" private field.( ¿¤à8øèô-
+Wsquid:S4973`"9Use the "equals" method if value comparison was intended.(á”¿¢8ËÔ¹¢‹.

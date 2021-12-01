@@ -1,0 +1,14 @@
+
+psquid:S3776T"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(˜Ğôé8È¶®ù¤.
+Nsquid:S1066…"/Merge this if statement with the enclosing one.(‡ëó8¶ƒù¤.
+jsquid:CommentedOutCodeLine§"<This block of commented-out lines of code should be removed.(ùÆ³‘8ÇÉ¾ä¤.
+psquid:S00117T"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Ğôé8È¶®ù¤.
+W
+squid:S106¥"9Replace this use of System.out or System.err by a logger.(û‚İ‹8ªë‰ù¤.
+Bsquid:S1659?"Declare "y" on a separate line.(¡Ê²‘şÿÿÿÿ8È¶®ù¤.
+psquid:S00117T"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Ğôé8È¶®ù¤.
+V
+squid:S106¡"9Replace this use of System.out or System.err by a logger.(Ê”ÉI8×Ûå¤.
+\
+squid:S106¤"9Replace this use of System.out or System.err by a logger.(”İÖúÿÿÿÿ8½ş‰ù¤.
+psquid:S00117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( îøÕ8È¶®ù¤.

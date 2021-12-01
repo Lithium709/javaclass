@@ -1,0 +1,8 @@
+
+psquid:S3776t"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(á¿Œ»8¸ÃéÚÁ.
+isquid:CommentedOutCodeLine8"<This block of commented-out lines of code should be removed.(á¿Œ»8–ý­ÚÁ.
+¥%squid:RedundantThrowsDeclarationCheck’"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8‡ÇÒÁ.
+[squid:S1197x"8Move the array designator from the variable to the type.(ë™úøÿÿÿÿ8†­÷ÚÁ.
+jsquid:CommentedOutCodeLine¦"<This block of commented-out lines of code should be removed.(Çµí‘8‡ÇÒÁ.
+\
+squid:S106ž"9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿ8ûòúÙÁ.

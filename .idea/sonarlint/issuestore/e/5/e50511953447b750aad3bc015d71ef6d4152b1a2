@@ -1,0 +1,25 @@
+
+osquid:CommentedOutCodeLineÝ"<This block of commented-out lines of code should be removed.( ‹õëþÿÿÿÿ8ÿˆ³Ú¤.
+[
+squid:S106{"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8ÿˆ³Ú¤.
+jsquid:CommentedOutCodeLine§"<This block of commented-out lines of code should be removed.(”ªµò8ÿˆ³Ú¤.
+V
+squid:S106w"9Replace this use of System.out or System.err by a logger.(×•œ²8ÿˆ³Ú¤.
+\
+squid:S106¢"9Replace this use of System.out or System.err by a logger.(þæÌûÿÿÿÿ8ÿˆ³Ú¤.
+\squid:S1197”"8Move the array designator from the variable to the type.(Úãõ–ûÿÿÿÿ8ÿˆ³Ú¤.
+psquid:S00117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öûÐŸ8ÿˆ³Ú¤.
+psquid:S3776?"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(õŠæ8ÿˆ³Ú¤.
+usquid:S00117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å×âúÿÿÿÿ8ÿˆ³Ú¤.
+vsquid:S00117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥ÒÐŸúÿÿÿÿ8ÿˆ³Ú¤.
+\
+squid:S106£"9Replace this use of System.out or System.err by a logger.(Ø–ªùÿÿÿÿ8ÿˆ³Ú¤.
+psquid:S00117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¶¯Å8ÿˆ³Ú¤.
+usquid:S00117K"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì©ÿ¯ýÿÿÿÿ8ÿˆ³Ú¤.
+‹ squid:ForLoopCounterChangedCheck—"XRefactor the code in order to not assign to this loop counter from within the loop body.(È›ÌL8ÿˆ³Ú¤.
+Asquid:S2119A"Save and re-use this "Random".(šŸ«íøÿÿÿÿ8ÿˆ³Ú¤.
+V
+squid:S106v"9Replace this use of System.out or System.err by a logger.(¾ç›°8ÿˆ³Ú¤.
+\
+squid:S106¥"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8ÿˆ³Ú¤.
+qsquid:S00117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•±ª³8ÿˆ³Ú¤.

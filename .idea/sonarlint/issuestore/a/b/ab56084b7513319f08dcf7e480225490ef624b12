@@ -1,0 +1,23 @@
+
+osquid:CommentedOutCodeLineˆ"<This block of commented-out lines of code should be removed.(‰ô‡Ôúÿÿÿÿ8±Ž¶ï¨.
+vsquid:S00117Ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æþ«Žûÿÿÿÿ8¸¨®š§.
+usquid:S00117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÞÞï‚ûÿÿÿÿ8²³‘ˆ§.
+usquid:S00117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÞÞï‚ûÿÿÿÿ8áÃ¨ˆ§.
+usquid:S00117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜¼·—üÿÿÿÿ8ò”„§.
+psquid:S00117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¥Ê8¸¨®š§.
+psquid:S00117¡"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¥Ê8¸¨®š§.
+[squid:S1197M"8Move the array designator from the variable to the type.(˜¼·—üÿÿÿÿ8ò”„§.
+[squid:S1197]"8Move the array designator from the variable to the type.(ÞÞï‚ûÿÿÿÿ8²³‘ˆ§.
+vsquid:S00117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êæü¹ýÿÿÿÿ8¸¨®š§.
+isquid:S2184ˆ"ECast one of the operands of this subtraction operation to a "double".(‰¬×›úÿÿÿÿ8ó’àï¨.
+dsquid:S2184„"ECast one of the operands of this subtraction operation to a "double".(Ë«µº8ª÷Ûï¨.
+Ssquid:S1066³"/Merge this if statement with the enclosing one.(Å×ÿÿÿÿÿ8¸¨®š§.
+Dsquid:S1168T"&Return an empty array instead of null.(¥¹ï8¸¨®š§.
+Dsquid:S1168{"&Return an empty array instead of null.(¥¹ï8Þõ÷ï¨.
+psquid:S3776¡"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ù¥Ê8½Øñï¨.
+Esquid:S1168Æ"&Return an empty array instead of null.(¥¹ï8òïúï¨.
+Vsquid:S1197¡"8Move the array designator from the variable to the type.(Ù¥Ê8¸¨®š§.
+\squid:S1197Î"8Move the array designator from the variable to the type.(Êæü¹ýÿÿÿÿ8¸¨®š§.
+usquid:S00117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜¼·—üÿÿÿÿ8ò”„§.
+\
+squid:S106˜"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿ8Ù”€Ÿ§.

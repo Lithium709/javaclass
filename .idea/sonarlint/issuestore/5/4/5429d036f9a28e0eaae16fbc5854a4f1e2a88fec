@@ -1,0 +1,6 @@
+
+\
+squid:S106‚"9Replace this use of System.out or System.err by a logger.(…”Æ‰ÿÿÿÿÿ8õ„œÅÄ.
+[
+squid:S106O"9Replace this use of System.out or System.err by a logger.(…”Æ‰ÿÿÿÿÿ8˜‘×ÅÄ.
+nsquid:S12068"PThis class overrides "hashCode()" and should therefore also override "equals()".(ğÜşŠ8š¥ãÇÄ.

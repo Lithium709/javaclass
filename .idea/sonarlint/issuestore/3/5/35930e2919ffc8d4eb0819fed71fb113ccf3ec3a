@@ -1,0 +1,18 @@
+
+isquid:S00117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Ğôé
+O
+squid:S106±"9Replace this use of System.out or System.err by a logger.(Ê”ÉI
+isquid:S00117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜Ğôé
+Nsquid:S1481k"0Remove this unused "unreachable" local variable.(¦‚˜û8›®áé¤.
+Osquid:S1481l",Remove this unused "blocked" local variable.(ÂÕ­çúÿÿÿÿ8›®áé¤.
+isquid:S00117\"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( îøÕ
+W
+squid:S106¯"9Replace this use of System.out or System.err by a logger.(Ã¿§Ò8òïâé¤.
+\
+squid:S106´"9Replace this use of System.out or System.err by a logger.(”İÖúÿÿÿÿ8’¿ãé¤.
+Msquid:S1481m"*Remove this unused "angle" local variable.(Ï€œÅøÿÿÿÿ8›®áé¤.
+csquid:CommentedOutCodeLine·"<This block of commented-out lines of code should be removed.(ùÆ³‘
+psquid:S3776U"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(˜Ğôé8æ¼é¤.
+;squid:S1659@"Declare "y" on a separate line.(¡Ê²‘şÿÿÿÿ
+\
+squid:S106¶"9Replace this use of System.out or System.err by a logger.(…¹÷´úÿÿÿÿ8’¿ãé¤.

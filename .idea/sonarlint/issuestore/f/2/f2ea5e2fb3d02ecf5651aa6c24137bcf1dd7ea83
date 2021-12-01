@@ -1,0 +1,15 @@
+
+V
+squid:S106a"9Replace this use of System.out or System.err by a logger.(†¥Ëè8Îíı‡Ê.
+[
+squid:S106@"9Replace this use of System.out or System.err by a logger.(ÌŠ»úÿÿÿÿ8Îíı‡Ê.
+usquid:S00117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úºİİÿÿÿÿÿ8Îíı‡Ê.
+usquid:S00117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€°ôÓùÿÿÿÿ8Îíı‡Ê.
+nsquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(â£¼«üÿÿÿÿ8Îíı‡Ê.
+[
+squid:S106B"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Îíı‡Ê.
+psquid:S00117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤˜ÊÄ8Îíı‡Ê.
+V
+squid:S106D"9Replace this use of System.out or System.err by a logger.(“èºŞ8Îíı‡Ê.
+9squid:S1643$"Use a StringBuilder instead.(û¶8Îíı‡Ê.
+osquid:S3776*"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(İ“ûE8Îíı‡Ê.

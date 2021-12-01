@@ -1,0 +1,11 @@
+
+msquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(©¦ï}8¼ÀæôÌ.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ùÎÌ8ü¡éôÌ.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¥ÄŞÆûÿÿÿÿ8¼ÀæôÌ.
+‰ squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì¿ı®8¼ÀæôÌ.
+2squid:S1700"Rename field "mediana"(”‹Õä8ô’ôÌ.
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Î½–­şÿÿÿÿ8¼ÀæôÌ.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤Ã–§úÿÿÿÿ8¼ÀæôÌ.

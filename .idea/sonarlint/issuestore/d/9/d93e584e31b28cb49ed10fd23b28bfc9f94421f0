@@ -1,0 +1,7 @@
+
+Zsquid:UselessImportCheck"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8«óõÉ×,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(±øÁæ8š¹Ê×,
+^squid:UselessImportCheck".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8«óõÉ×,
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(±øÁæ8ØÈœÊ×,

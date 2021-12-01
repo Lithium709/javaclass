@@ -1,0 +1,12 @@
+
+Esquid:S1481"(Remove this unused "vid" local variable.(ØÊØ[8½ˆÇ³È.
+Tsquid:S1854"7Remove this useless assignment to local variable "wid".(Éþá78½ˆÇ³È.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8½ˆÇ³È.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(÷î¡¾8½ˆÇ³È.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¡Œïá8½ˆÇ³È.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÓØœóùÿÿÿÿ8½ˆÇ³È.
+Tsquid:S1854"7Remove this useless assignment to local variable "vid".(ØÊØ[8½ˆÇ³È.
+Esquid:S1481"(Remove this unused "wid" local variable.(Éþá78½ˆÇ³È.

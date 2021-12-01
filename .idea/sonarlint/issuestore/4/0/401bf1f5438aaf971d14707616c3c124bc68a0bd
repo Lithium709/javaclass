@@ -1,0 +1,14 @@
+
+Wsquid:UselessImportCheck",Remove this unused import 'java.util.Queue'.(Äá™ô8ÁåØ€Ã.
+\squid:UselessImportCheck",Remove this unused import 'java.util.Stack'.(ŞÈ†üúÿÿÿÿ8†ö×€Ã.
+:squid:S16439"Use a StringBuilder instead.(‹å†ù8´ˆü€Ã.
+[
+squid:S106L"9Replace this use of System.out or System.err by a logger.(’ ªÿÿÿÿÿ8‚ğò€Ã.
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãúÚÖıÿÿÿÿ8»•î€Ã.
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÍŸİ¨ùÿÿÿÿ8»•î€Ã.
+:squid:S1643B"Use a StringBuilder instead.(‹å†ù8»•î€Ã.
+?squid:S1643"Use a StringBuilder instead.(·Ëùÿÿÿÿ8»•î€Ã.
+?squid:S16431"Use a StringBuilder instead.(¬ê¶Ÿøÿÿÿÿ8»•î€Ã.
+nsquid:CommentedOutCodeLineJ"<This block of commented-out lines of code should be removed.(¶ƒÛÌÿÿÿÿÿ8³ğó€Ã.
+?squid:S1643&"Use a StringBuilder instead.(–ßì²ùÿÿÿÿ8»•î€Ã.
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 31 to the 15 allowed.(æÎ›šşÿÿÿÿ8”Å€Ã.

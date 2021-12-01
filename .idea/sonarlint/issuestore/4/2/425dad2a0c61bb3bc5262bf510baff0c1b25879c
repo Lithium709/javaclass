@@ -1,0 +1,7 @@
+
+N
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿ß
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(†Ú ñûÿÿÿÿ
+Usquid:UselessImportCheck"1Remove this unused import 'java.time.ZoneOffset'.(ìÍÄË
+]squid:UselessImportCheck"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ

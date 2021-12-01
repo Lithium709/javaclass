@@ -1,0 +1,11 @@
+
+Hsquid:S1612F",Replace this lambda with a method reference.(ûÒ§ãþÿÿÿÿ
+Xsquid:UselessImportCheck"4Remove this unused import 'java.util.stream.Stream'.(ó÷Ž”
+bsquid:CommentedOutCodeLine-"<This block of commented-out lines of code should be removed.(ÍÔË¨
+Ksquid:S1611F"/Remove the parentheses around the "e" parameter(ûÒ§ãþÿÿÿÿ
+O
+squid:S106I"9Replace this use of System.out or System.err by a logger.(ÿþ«Ä
+gsquid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+gsquid:CommentedOutCodeLine9"<This block of commented-out lines of code should be removed.(¢ðØÄüÿÿÿÿ
+asquid:UselessImportCheck"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ
+gsquid:CommentedOutCodeLineK"<This block of commented-out lines of code should be removed.(çì¬®ûÿÿÿÿ

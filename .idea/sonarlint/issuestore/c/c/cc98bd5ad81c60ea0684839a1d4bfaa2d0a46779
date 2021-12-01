@@ -1,0 +1,7 @@
+
+?squid:S1643,"Use a StringBuilder instead.(¢Ãúìûÿÿÿÿ8×€ÂƒÃ.
+usquid:S3776	"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(æÎ›šşÿÿÿÿ8§±è‚Ã.
+nsquid:CommentedOutCodeLine3"<This block of commented-out lines of code should be removed.(¶ƒÛÌÿÿÿÿÿ8·®İ‚Ã.
+?squid:S1643#"Use a StringBuilder instead.(œèÛ¢üÿÿÿÿ8·Î¶ƒÃ.
+[
+squid:S1066"9Replace this use of System.out or System.err by a logger.(‰Ú©ûÿÿÿÿ8ìë‚ƒÃ.

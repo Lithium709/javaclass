@@ -1,0 +1,11 @@
+
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•»ÓŽþÿÿÿÿ8ƒÜ¡öê,
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¼Ô×†ýÿÿÿÿ8Î“¤öê,
+usquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•»ÓŽþÿÿÿÿ8ƒÜ¡öê,
+[squid:S1197
+"8Move the array designator from the variable to the type.(¬­¥Úþÿÿÿÿ8ó¿žöê,
+[
+squid:S106!"9Replace this use of System.out or System.err by a logger.(Üï¿œùÿÿÿÿ8ó¿žöê,
+Esquid:S1481"'Remove this unused "in" local variable.(äÆ¾Ó8Î“¤öê,
+Tsquid:S1854"6Remove this useless assignment to local variable "in".(äÆ¾Ó8Î“¤öê,
+Psquid:S1659"-Declare "max_ending_here" on a separate line.(•»ÓŽþÿÿÿÿ8ƒÜ¡öê,

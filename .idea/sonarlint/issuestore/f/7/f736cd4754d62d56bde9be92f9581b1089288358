@@ -1,0 +1,7 @@
+
+Isquid:EmptyStatementUsageCheck"Remove this empty statement.(Åñ­õşÿÿÿÿ
+Lsquid:S1197"8Move the array designator from the variable to the type.(Ì–
+Rsquid:S1197"8Move the array designator from the variable to the type.(®‰¯ÿÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹úÖ¶
+`squid:S1192"FDefine a constant instead of duplicating this literal "grand" 3 times.(®‰¯ÿÿÿÿÿ

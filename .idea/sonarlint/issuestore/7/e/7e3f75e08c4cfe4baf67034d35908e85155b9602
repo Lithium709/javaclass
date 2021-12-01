@@ -1,0 +1,14 @@
+
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(Öå–48áßÁÓğ.
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¦şÿÿÿÿÿ8¨ÎìĞğ.
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØäÃİıÿÿÿÿ
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÛØ®Ïúÿÿÿÿ8¨ÎìĞğ.
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âóõ“üÿÿÿÿ
+Ysquid:S1197"8Move the array designator from the variable to the type.(‡ â–şÿÿÿÿ8¨ÎìĞğ.
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÅÌö‰ÿÿÿÿÿ8Å±·Õğ.
+Rsquid:S1197"8Move the array designator from the variable to the type.(ØäÃİıÿÿÿÿ
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ â–şÿÿÿÿ8¨ÎìĞğ.
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ¸ßâùÿÿÿÿ8¨ÎìĞğ.
+Rsquid:S1197"8Move the array designator from the variable to the type.(âóõ“üÿÿÿÿ

@@ -1,0 +1,14 @@
+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ğ‚ñØùÿÿÿÿ8 ğÈ¶Â.
+\squid:S2184"@Cast one of the operands of this addition operation to a "long".(„í¢ì8ƒ®Ú²Â.
+Psquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(Ú‘ä·8ö”ó²Â.
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(¦€V8ß¼ó²Â.
+\squid:S2184"@Cast one of the operands of this addition operation to a "long".(³åœÙ8ƒ®Ú²Â.
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Çµí‘8ß¼ó²Â.
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Øæœ€øÿÿÿÿ8ß¼ó²Â.
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(êË¥ì8ß¼ó²Â.
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(ƒ€¡—8ƒ®Ú²Â.
+¢%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8ß¼ó²Â.
+Psquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(Ú‘ä·8ì‹ñ´Â.

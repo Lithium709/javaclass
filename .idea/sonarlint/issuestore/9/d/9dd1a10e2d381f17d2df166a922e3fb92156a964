@@ -1,0 +1,8 @@
+
+[squid:S1197"8Move the array designator from the variable to the type.(ÎÍµúÿÿÿÿ8Òòÿ¬Ö,
+V
+squid:S1069"9Replace this use of System.out or System.err by a logger.(´À¾Ó8Òòÿ¬Ö,
+[squid:S11972"8Move the array designator from the variable to the type.(Ã¦ˆùÿÿÿÿ8Òòÿ¬Ö,
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ« ç8Òòÿ¬Ö,
+Vsquid:S1197"8Move the array designator from the variable to the type.(Æ« ç8Òòÿ¬Ö,
+ksquid:S22596"M"NullPointerException" will be thrown when invoking method "findDistances()".(æ’°‹8Òòÿ¬Ö,

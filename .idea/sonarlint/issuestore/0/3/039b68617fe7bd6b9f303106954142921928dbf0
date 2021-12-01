@@ -1,0 +1,9 @@
+
+rsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ó ß¾øÿÿÿÿ8½¹„óÛ,
+V
+squid:S1064"9Replace this use of System.out or System.err by a logger.(ÆÀûý8°†ÜóÛ,
+rsquid:S00100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìÒÍçøÿÿÿÿ8¯Ô’óÛ,
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‚¦—I8ÃÌåóÛ,
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¢üÕÒ
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(úŒ¸ªûÿÿÿÿ8’öŠóÛ,

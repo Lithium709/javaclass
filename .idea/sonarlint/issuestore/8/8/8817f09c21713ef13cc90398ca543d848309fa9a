@@ -1,0 +1,11 @@
+
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(êË¥ì
+\squid:UselessImportCheck".Remove this unused import 'java.util.TreeMap'.(¨éˆèýÿÿÿÿ8ÂõÙ¸Â.
+L
+squid:S106"9Replace this use of System.out or System.err by a logger.(¦€V
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Çµí‘
+Xsquid:UselessImportCheck"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ8÷ÖÙ¸Â.
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ð‚ñØùÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Øæœ€øÿÿÿÿ
+›%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø
